@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8"/>
     <title>Vezba so formi</title>
+    <!--
+     @author Natasha Stojanova
+    -->
 </head>
 <body>
 <form method="GET" action="collect.php">

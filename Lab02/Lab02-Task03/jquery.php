@@ -1,4 +1,7 @@
 <?php
+/**
+ *  @author Natasha Stojanova
+ */
 
 // If the form was submitted, scrub the input (server-side validation)
 // see below in the html for the client-side validation using jQuery

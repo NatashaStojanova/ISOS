@@ -1,4 +1,7 @@
 <?php
+/**
+ *  @author Natasha Stojanova
+ */
 session_start();
 echo $_GET['ime'];
 echo "<br>";

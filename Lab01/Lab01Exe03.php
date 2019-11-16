@@ -1,5 +1,7 @@
 <?php
-
+/**
+ *  @author Natasha Stojanova
+ */
 //Vezhba 3.1  DEFINIRANJE-NA-POLINJA i Vezbha 3.2 IZMINUVANJE-NA-POLINJA
 
 $numArray=array(2,5,6,10,41,24,32,9,16,19);

@@ -1,5 +1,7 @@
 <?php
-
+/**
+ *  @author Natasha Stojanova
+ */
 //Vezhba 2.1  KONKATENACIJA-NA-STRING
 $fName="Natasha";
 $lName="Stojanova";

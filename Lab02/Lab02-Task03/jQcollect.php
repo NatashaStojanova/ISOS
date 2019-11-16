@@ -1,4 +1,7 @@
 <?php
+/**
+ *  @author Natasha Stojanova
+ */
 $name=$_POST["name"];
 //$gender=$_POST["gender"];
 //$address=$_POST["address"];

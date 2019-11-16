@@ -1,5 +1,7 @@
 <?php
-
+/**
+ *  @author Natasha Stojanova
+ */
 
 $x=5;
 echo $x;
